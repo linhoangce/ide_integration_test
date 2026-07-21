@@ -1,0 +1,31 @@
+{
+  "name": "ide_integration_test",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/linhoangce/ide_integration_test#readme",
+  "bugs": {
+    "url": "https://github.com/linhoangce/ide_integration_test/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linhoangce/ide_integration_test.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@prisma/client": "^7.9.0",
+    "bcrypt": "^6.0.0",
+    "express": "^5.2.1",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^6.0.0",
+    "@types/express": "^5.0.6",
+    "typescript": "^7.0.2"
+  }
+}
